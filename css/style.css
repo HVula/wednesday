@@ -1,0 +1,26 @@
+body {
+    background-color: aliceblue;
+}
+
+h1 {
+    color: blue;
+}
+
+p {
+    color: blueviolet;
+    border: 2px solid powderblue;
+    margin: 50px;
+}
+
+h1 {
+    text-align: center;
+}
+
+ul {
+    list-style-type: circle;
+    color: brown;
+}
+
+ol {
+    color: rgb(140, 165, 42);
+}
